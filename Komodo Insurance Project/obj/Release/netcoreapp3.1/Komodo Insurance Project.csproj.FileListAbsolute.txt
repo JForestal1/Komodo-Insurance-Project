@@ -1,0 +1,16 @@
+D:\ElevenFiftyProjects\Komodo Insurance Project\Komodo Insurance Project\bin\Release\netcoreapp3.1\Komodo Insurance Project.exe
+D:\ElevenFiftyProjects\Komodo Insurance Project\Komodo Insurance Project\bin\Release\netcoreapp3.1\Komodo Insurance Project.deps.json
+D:\ElevenFiftyProjects\Komodo Insurance Project\Komodo Insurance Project\bin\Release\netcoreapp3.1\Komodo Insurance Project.runtimeconfig.json
+D:\ElevenFiftyProjects\Komodo Insurance Project\Komodo Insurance Project\bin\Release\netcoreapp3.1\Komodo Insurance Project.runtimeconfig.dev.json
+D:\ElevenFiftyProjects\Komodo Insurance Project\Komodo Insurance Project\bin\Release\netcoreapp3.1\Komodo Insurance Project.dll
+D:\ElevenFiftyProjects\Komodo Insurance Project\Komodo Insurance Project\bin\Release\netcoreapp3.1\Komodo Insurance Project.pdb
+D:\ElevenFiftyProjects\Komodo Insurance Project\Komodo Insurance Project\bin\Release\netcoreapp3.1\KomodoDeveloperRepo.dll
+D:\ElevenFiftyProjects\Komodo Insurance Project\Komodo Insurance Project\bin\Release\netcoreapp3.1\KomodoDeveloperRepo.pdb
+D:\ElevenFiftyProjects\Komodo Insurance Project\Komodo Insurance Project\obj\Release\netcoreapp3.1\Komodo Insurance Project.csprojAssemblyReference.cache
+D:\ElevenFiftyProjects\Komodo Insurance Project\Komodo Insurance Project\obj\Release\netcoreapp3.1\Komodo Insurance Project.AssemblyInfoInputs.cache
+D:\ElevenFiftyProjects\Komodo Insurance Project\Komodo Insurance Project\obj\Release\netcoreapp3.1\Komodo Insurance Project.AssemblyInfo.cs
+D:\ElevenFiftyProjects\Komodo Insurance Project\Komodo Insurance Project\obj\Release\netcoreapp3.1\Komodo Insurance Project.csproj.CoreCompileInputs.cache
+D:\ElevenFiftyProjects\Komodo Insurance Project\Komodo Insurance Project\obj\Release\netcoreapp3.1\Komodo Insurance Project.csproj.CopyComplete
+D:\ElevenFiftyProjects\Komodo Insurance Project\Komodo Insurance Project\obj\Release\netcoreapp3.1\Komodo Insurance Project.dll
+D:\ElevenFiftyProjects\Komodo Insurance Project\Komodo Insurance Project\obj\Release\netcoreapp3.1\Komodo Insurance Project.pdb
+D:\ElevenFiftyProjects\Komodo Insurance Project\Komodo Insurance Project\obj\Release\netcoreapp3.1\Komodo Insurance Project.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+D:\ElevenFiftyProjects\Komodo Insurance Project\KomodoDeveloperRepo\bin\Release\KomodoDeveloperRepo.dll
+D:\ElevenFiftyProjects\Komodo Insurance Project\KomodoDeveloperRepo\bin\Release\KomodoDeveloperRepo.pdb
+D:\ElevenFiftyProjects\Komodo Insurance Project\KomodoDeveloperRepo\obj\Release\KomodoDeveloperRepo.csprojAssemblyReference.cache
+D:\ElevenFiftyProjects\Komodo Insurance Project\KomodoDeveloperRepo\obj\Release\KomodoDeveloperRepo.csproj.CoreCompileInputs.cache
+D:\ElevenFiftyProjects\Komodo Insurance Project\KomodoDeveloperRepo\obj\Release\KomodoDeveloperRepo.dll
+D:\ElevenFiftyProjects\Komodo Insurance Project\KomodoDeveloperRepo\obj\Release\KomodoDeveloperRepo.pdb
